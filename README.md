@@ -12,7 +12,7 @@ I am Mayank Saraswat, currently pursuing my B.Tech degree in Computer Science wi
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulvarshney&label=Profile%20views&color=129e00&style=plastic" alt="mradulvarshney" /> </p> -->
 
 ## 👨🏻‍💻 Coding Profiles
-<a target = "_blank" href="https://leetcode.com/MayankSaraswat"> <img style="width: 100px;" src="https://miro.medium.com/max/1400/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode image"></a>
+<a target="_blank" href="https://leetcode.com/MayankSaraswat"> <img style="width: 100px;" src="https://miro.medium.com/max/1400/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode image"></a>
 
 ## Connect With Me:
 
