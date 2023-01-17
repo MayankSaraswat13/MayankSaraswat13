@@ -1,4 +1,4 @@
-<h1 align="center" >Hello, I am  Mayank Saraswat
+<h1 align="center" >Hello, I am  Mayank Saraswat 
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <!-- <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" > -->
 <!-- Typing SVG by MayankSaraswat13 - https://github.com/MayankSaraswat13/readme-typing-svg -->
@@ -9,10 +9,11 @@
 
 I am Mayank Saraswat, currently pursuing my B.Tech degree in Computer Science with (AIML) from [GLA UNIVERSITY, MATHURA].
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulvarshney&label=Profile%20views&color=129e00&style=plastic" alt="mradulvarshney" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulvarshney&label=Profile%20views&color=129e00&style=plastic" alt="mradulvarshney" /> </p>
 
 ## 👨🏻‍💻 Coding Profiles
 <a href="https://leetcode.com/MayankSaraswat" target="_blank"> <img style="width: 100px;" src="https://miro.medium.com/max/1400/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="leetcode image"></a>
+
 
 ## Connect With Me:
 
